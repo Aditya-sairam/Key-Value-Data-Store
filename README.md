@@ -25,6 +25,6 @@ Now the following operations can be performed.</h2><u/>
    System.out.println(ds.delete(String value));
 <u /><br><br>
   
-<b>Appropriate error messages will be returned for key already availabe and other exceptions.</b>
+<b>Appropriate error messages will be returned for "key already availabe" and other exceptions.</b>
 <br><br>
 <b> Thank You!</b>
