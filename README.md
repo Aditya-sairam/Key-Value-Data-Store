@@ -13,6 +13,8 @@ Download the project.In the eclipse,go to consumer package,and select DataConsum
 
 Create a new object of the datastore as,
 <b>DataStore ds = new DataStore();</b></h2><br/>
+ if location has to be specified then,
+<b>DataStore ds = new DataStore(String dataStoreLoc,String dataStoreName);</b></h2><br/>
 Now the following operations can be performed.</h2><u/>
 
 <h1><b>Create Operation</b></h1><u/>
